@@ -23,4 +23,5 @@ Templating: EJS
 Maps: Leaflet.js + OpenStreetMap
 
 This application requires users to allow location access. Location data is used only for real-time visualization and is not stored anywhere.
+<img width="1598" height="638" alt="Screenshot 2026-01-30 203404" src="https://github.com/user-attachments/assets/71c238aa-1304-4715-9c65-32d8f811b3c5" />
 
